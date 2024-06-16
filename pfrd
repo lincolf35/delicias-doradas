@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicias Doradas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Delicias Doradas</h1>
+        <p>Creciendo junto a ti</p>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#justificacion">Justificación del Proyecto</a></li>
+                <li><a href="#objetivos">Objetivos</a></li>
+                <li><a href="#destinatarios">Destinatarios del Proyecto</a></li>
+                <li><a href="#recetas">Recetas</a></li>
+                <li><a href="#seguimiento">Seguimiento y Evaluación</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="inicio">
+        <h2>Bienvenidos a Delicias Doradas</h2>
+        <p>El aguaymanto, también conocido como Physalis peruviana o uchuva, es una fruta nativa de los Andes que se ha destacado por sus excepcionales propiedades nutricionales y su delicioso sabor.</p>
+    </section>
+
+    <section id="justificacion">
+        <h2>Justificación del Proyecto</h2>
+        <p>Este proyecto busca desarrollar y promover productos de repostería innovadores que utilicen el aguaymanto como ingrediente principal con el objetivo de destacar sus beneficios y ofrecer al mercado una alternativa saludable y gourmet.</p>
+    </section>
+
+    <section id="objetivos">
+        <h2>Objetivos</h2>
+        <h3>Objetivo General</h3>
+        <p>Desarrollar y comercializar una línea de productos de repostería innovadores que utilicen aguaymanto como ingrediente principal destacando sus beneficios nutricionales y su sabor único y promoviendo su inclusión en la alimentación cotidiana.</p>
+        <h3>Objetivos Específicos</h3>
+        <ul>
+            <li>Investigar y documentar las propiedades nutricionales y culinarias del aguaymanto.</li>
+            <li>Experimentar con diferentes recetas de repostería para identificar las combinaciones de ingredientes y técnicas que mejor realcen el sabor y las propiedades del aguaymanto.</li>
+            <li>Desarrollar prototipos de productos de repostería a base de aguaymanto tales como pasteles, tartas, galletas, mermeladas y rellenos.</li>
+        </ul>
+    </section>
+
+    <section id="destinatarios">
+        <h2>Destinatarios del Proyecto</h2>
+        <ul>
+            <li>Amantes de la Repostería</li>
+            <li>Consumidores Saludables</li>
+            <li>Gourmets y Foodies</li>
+            <li>Estudiantes y Profesionales de Gastronomía</li>
+            <li>Nutricionistas y Dietistas</li>
+            <li>Panaderías y Pastelerías</li>
+            <li>Tiendas de Alimentos Saludables y Orgánicos</li>
+            <li>Cadenas de Supermercados</li>
+            <li>Agricultores de Aguaymanto</li>
+            <li>Cooperativas y Asociaciones Agrícolas</li>
+            <li>Familias y Hogares</li>
+            <li>Grupos Comunitarios y Organizaciones sin Ánimo de Lucro</li>
+            <li>Restaurantes y Hoteles</li>
+            <li>Empresas de Catering</li>
+        </ul>
+    </section>
+
+    <section id="recetas">
+        <h2>Receta de Queque de Aguaymanto</h2>
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>2 tazas de aguaymantos frescos</li>
+            <li>2 tazas de harina de trigo</li>
+            <li>1 taza de azúcar</li>
+            <li>1 taza de aceite vegetal</li>
+            <li>3 huevos grandes</li>
+            <li>1/2 taza de yogur natural o leche</li>
+            <li>1 cucharadita de esencia de vainilla</li>
+            <li>2 cucharaditas de polvo de hornear</li>
+            <li>1/2 cucharadita de bicarbonato de sodio</li>
+            <li>1/4 cucharadita de sal</li>
+            <li>Ralladura de 1 limón (opcional)</li>
+            <li>Azúcar glas para espolvorear (opcional)</li>
+        </ul>
+        <h3>Instrucciones:</h3>
+        <ol>
+            <li>Precalienta el horno a 180°C (350°F).</li>
+            <li>Engrasa y enharina un molde para queque de aproximadamente 23 cm (9 pulgadas).</li>
+            <li>Lava los aguaymantos y retira las cáscaras. Reserva algunos para decorar. Corta los aguaymantos restantes por la mitad o en cuartos dependiendo de su tamaño.</li>
+            <li>En un bol grande tamiza la harina, el polvo de hornear, el bicarbonato de sodio y la sal. Mezcla bien.</li>
+            <li>En otro bol bate los huevos con el azúcar hasta que la mezcla esté pálida y esponjosa. Añade el aceite vegetal, el yogur (o leche) y la esencia de vainilla. Mezcla hasta integrar bien. Incorpora la ralladura de limón si estás utilizando.</li>
+            <li>Agrega gradualmente los ingredientes secos a la mezcla húmeda batiendo a baja velocidad hasta que estén bien combinados. Incorpora los aguaymantos cortados a la masa mezclando suavemente con una espátula para distribuirlos uniformemente.</li>
+            <li>Vierte la masa en el molde preparado y nivela la superficie con una espátula. Coloca algunos aguaymantos enteros en la parte superior de la masa para decorar.</li>
+            <li>Hornea en el horno precalentado durante 45-50 minutos o hasta que un palillo insertado en el centro del queque salga limpio.</li>
+            <li>Deja enfriar el queque en el molde durante unos 10-15 minutos antes de desmoldarlo. Transfiere el queque a una rejilla para que se enfríe completamente. Espolvorea con azúcar glas antes de servir si lo deseas.</li>
+        </ol>
+    </section>
+
+    <section id="seguimiento">
+        <h2>Seguimiento y Evaluación del Proyecto</h2>
+        <p>El líder de este proyecto es nuestro compañero Lincolf. Él se encargó de analizar, observar y dirigir al grupo en el transcurso de la actividad. Este plan de seguimiento y evaluación permitirá al proyecto Dulces Delicias identificar rápidamente cualquier desviación, tomar decisiones informadas y garantizar la mejora continua, asegurando así el éxito a largo plazo del proyecto.</p>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Para más información, por favor contacta a nuestro equipo.</p>
+        <ul>
+            <li>Email: contacto@deliciasdoradas.com</li>
+            <li>Teléfono: +123 456 7890</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Delicias Doradas. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
